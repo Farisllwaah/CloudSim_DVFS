@@ -109,7 +109,7 @@ public class Simple_DVFS {
 		try {
 			
 			/* XML configuration file Parsing*/
-			ConfSimu = new SimulationXMLParse(System.getProperty("user.dir")+"/Experience.xml");
+			ConfSimu = new SimulationXMLParse(System.getProperty("user.dir")+"/XML/simple_dvfs.xml");
 			vect_dcs = ConfSimu.getArrayListDCS();
 			vect_hosts = vect_dcs.get(0).getArrayListHosts();
 			vect_vms = ConfSimu.getArrayListVMS();
