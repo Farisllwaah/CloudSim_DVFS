@@ -1,4 +1,4 @@
-package XML_DVFS_1;
+package Examples;
 
 /*
  * Title:        CloudSim Toolkit
