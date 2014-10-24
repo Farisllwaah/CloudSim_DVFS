@@ -1,3 +1,5 @@
 CloudSim_DVFS
 =============
-Eclipse project, objectives will be added.
+Objectives:
+- Develop RAM DVFS control
+- Develop new scheduler
